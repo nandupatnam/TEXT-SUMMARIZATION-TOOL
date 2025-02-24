@@ -1,0 +1,5 @@
+nltk - 3.9.1
+networkx - 3.4.2
+numpy - 2.2.2
+spicy - 1.15.1
+flask - 3.1.0
